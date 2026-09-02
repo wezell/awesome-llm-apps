@@ -1,5 +1,5 @@
-streamlit==1.44.1
-pillow==11.1.0
-agno==1.2.13
+streamlit==1.54.0
+pillow==12.3.0
+agno==2.6.6
 google-genai==1.9.0
 duckduckgo-search
